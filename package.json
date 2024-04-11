@@ -24,8 +24,7 @@
     "v:pminor": "npm version preminor",
     "v:patch": "npm version patch",
     "v:ppatch": "npm version prepatch",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "opencollective-postinstall"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -69,13 +68,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "dependencies": {
-    "opencollective-postinstall": "^2.0.1",
-    "opencollective": "^1.0.3"
-  },
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/live2d-widgetjs"
   }
 }
