@@ -1,6 +1,6 @@
 {
-  "name": "live2d-widget",
-  "version": "3.1.5",
+  "name": "@wangjiezhe/live2d-widget",
+  "version": "3.1.6",
   "main": "./lib/L2Dwidget.common.js",
   "description": "Add the Sseexxyyy live2d to webpages.",
   "scripts": {
@@ -28,22 +28,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiazeyu/live2d-widget.js.git"
+    "url": "git+https://github.com/wangjiezhe/live2d-widget.js.git"
   },
-  "author": "xiazeyu <xiazeyu_2011@126.com>",
+  "author": "Jiezhe Wang <wangjiezhe@gmail.com>",
   "contributors": [
+    "Jiezhe Wang <wangjiezhe@gmail.com>",
     "xiazeyu <xiazeyu_2011@126.com>",
     "EYHN <cneyhn@gmail.com>"
   ],
   "maintainers": [
+    "Jiezhe Wang <wangjiezhe@gmail.com>",
     "xiazeyu <xiazeyu_2011@126.com>",
     "EYHN <cneyhn@gmail.com>"
   ],
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/xiazeyu/live2d-widget.js/issues"
+    "url": "https://github.com/wangjiezhe/live2d-widget.js/issues"
   },
-  "homepage": "https://github.com/xiazeyu/live2d-widget.js#readme",
+  "homepage": "https://github.com/wangjiezhe/live2d-widget.js#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
