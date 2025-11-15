@@ -58,7 +58,7 @@
     "esdoc": "^1.0.4",
     "esdoc-ecmascript-proposal-plugin": "^1.0.0",
     "esdoc-standard-plugin": "^1.0.0",
-    "eslint": "^4.17.0",
+    "eslint": "^9.39.1",
     "html-loader": "^0.5.4",
     "path": "^0.12.7",
     "uglifyjs-webpack-plugin": "^1.1.6",
